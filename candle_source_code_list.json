@@ -13,6 +13,7 @@
         "https://raw.githubusercontent.com/createcandle/Devices/master/Carbon_sensor/Carbon_sensor.ino",
         "https://raw.githubusercontent.com/createcandle/Devices/master/Smart_lock/Smart_lock.ino",
         "https://raw.githubusercontent.com/createcandle/Devices/master/Smart_lock/SoftwareSerial.h",
-        "https://raw.githubusercontent.com/createcandle/Devices/master/Smart_lock/SoftwareSerial.cpp"
+        "https://raw.githubusercontent.com/createcandle/Devices/master/Smart_lock/SoftwareSerial.cpp",
+        "https://raw.githubusercontent.com/tatemz/candle-devices/master/Garage_opener/Garage_opener.ino"
     ]
 }
